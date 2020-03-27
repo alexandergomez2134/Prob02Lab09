@@ -1,3 +1,5 @@
+#include "find_number.hpp"
+
 void Numbers::init()
 {
   for (int i = 0; i < capacity_; i++)
